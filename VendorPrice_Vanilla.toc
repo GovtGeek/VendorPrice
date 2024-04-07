@@ -1,4 +1,4 @@
-## Interface: 11501
+## Interface: 11502
 ## Version: 24.03.13.0
 ## Title: VendorPrice
 ## Notes: Displays the vendor price on item tooltips
