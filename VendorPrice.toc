@@ -1,5 +1,5 @@
 ## Interface: 30403
-## Version: 24.03.13.0
+## Version: 24.04.06.0
 ## Title: VendorPrice
 ## Notes: Displays the vendor price on item tooltips
 ## Author: Shokatsu
